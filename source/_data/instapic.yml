@@ -2,29 +2,38 @@
 # name:         客户名称
 # cover:        客户 LOGO 路径
 #
-- name: LOGO
-  cover: /images/brand.svg
+- name: TypeScript
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
 
-- name: LOGO
-  cover: /images/brand.svg
+- name: Vue3
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg
 
-- name: LOGO
-  cover: /images/brand.svg
+- name: JavaScript
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
 
-- name: LOGO
-  cover: /images/brand.svg
+- name: Rust
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg
 
-- name: LOGO
-  cover: /images/brand.svg
+- name: Python
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
 
-- name: LOGO
-  cover: /images/brand.svg
+- name: VSCode
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg
 
-- name: LOGO
-  cover: /images/brand.svg
+- name: GitHub
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
 
-- name: LOGO
-  cover: /images/brand.svg
+- name: Git
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
 
-- name: LOGO
-  cover: /images/brand.svg
+- name: TailwindCSS
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg
+
+- name: Flask
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg
+
+- name: React
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+
+- name: Android
+  cover: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg
