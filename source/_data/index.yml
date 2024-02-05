@@ -6,7 +6,7 @@
 - name: album
   id: 
   title: Gallery
-  subtitle: 只需要改变 2 个颜色就会让你的站点焕然一新
+  subtitle: There are our features 🌟
   partial: album
   bg_color: 
   fluid: 
@@ -14,8 +14,8 @@
 
 - name: customers
   id: 
-  title: 客户
-  subtitle: 我们的客户来自世界上最好的公司
+  title: Stacks
+  subtitle: A variety of technology stacks ⌨️
   partials: [instapic, quotation]
   bg_color: 
   fluid: 
@@ -24,7 +24,7 @@
 - name: stories
   id: 
   title: Porjects
-  subtitle: 实践见真知既是最好的解释
+  subtitle: There are our projects 🔖
   partial: page/stories
   bg_color: bg-light
   fluid: 
@@ -32,8 +32,8 @@
 
 - name: archive
   id: 
-  title: 新闻
-  subtitle: 汇聚热点话题 打造创新思路
+  title: News
+  subtitle: To get our latest news 🗞️
   partial: archive
   bg_color: 
   fluid: 
