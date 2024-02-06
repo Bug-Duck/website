@@ -1,7 +1,7 @@
 # Header
 menu:
   Home: /
-  Gallery: /gallery
+  # Gallery: /gallery
   Projects: /stories
   Archives: /archives
   About: /about
