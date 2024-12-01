@@ -27,11 +27,11 @@ onMounted(() => {
 
 <template>
   <div class="w-full min-h-screen bg-amber-50">
-    <div class="w-full h-full flex flex-col md:flex-row pt-[20%] px-4 md:px-20">
-      <div class="w-full h-full flex flex-grow-[1] flex-col select-none">
-        <div class="text-[40px] md:text-[100px]">BugDuck Team</div>
-        <div class="text-[20px] md:text-[30px] h-[40px] flex items-center">
-          To<span class="inline-flex items-center justify-center w-[200px] overflow-hidden mx-1">
+    <div class="w-full h-full flex flex-col md:flex-row pt-[15%] md:pt-[8%] px-4 md:px-20">
+      <div class="w-full h-full flex flex-grow-[1] flex-col select-none lg:pt-[300px] pt-[50px]">
+        <div class="text-[40px] md:text-[100px] leading-tight">BugDuck Team</div>
+        <div class="text-[20px] md:text-[30px] h-[40px] flex items-center flex-wrap md:flex-nowrap">
+          To<span class="inline-flex items-center justify-center w-[120px] md:w-[200px] overflow-hidden mx-1">
             <div class="relative h-[40px]">
               <span class="absolute left-1/2 -translate-x-1/2" :class="{ 'tag-transition': isAnimating }">
                 {{ tags[currentIndex] }}
@@ -95,7 +95,7 @@ onMounted(() => {
         </div>
       </div>
     </div>
-    <div class="md:hidden h-[800px]"></div>
+    <div class="md:hidden h-[400px]"></div>
   </div>
   <div class="w-full p-4 md:p-[100px]">
     <div class="max-w-7xl mx-auto">
