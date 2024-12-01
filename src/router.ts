@@ -19,5 +19,9 @@ export default createRouter({
       path: "/articles/:id",
       component: () => import("./views/ArticleDetail.vue"),
     },
+    {
+      path: "/members",
+      component: () => import("./views/Members.vue"),
+    },
   ],
 });

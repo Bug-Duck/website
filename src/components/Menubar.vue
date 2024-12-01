@@ -6,6 +6,7 @@ const options = ref([
   { label: "Home", path: "/" },
   { label: "Projects", path: "/projects" },
   { label: "News", path: "/news" },
+  { label: "Members", path: "/members" },
 ]);
 
 const isMenuOpen = ref(false);
