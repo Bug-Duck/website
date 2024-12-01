@@ -12,7 +12,7 @@ export const articles: Article[] = [
     title: 'BugDuck join the CosCon 2024',
     coverImg: '/coscon24/image.png',
     summary: 'We have made a presentation in the CosCon 2024, Beijing, China.',
-    date: '2024-08-10'
+    date: '2024-11-04'
   },
   {
     id: 2,
