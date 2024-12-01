@@ -69,7 +69,7 @@ onMounted(() => {
                       floating-animation-down mb-6 md:mb-0">
             <h2 class="text-2xl font-bold mb-4">What we are?</h2>
             <p class="mb-4">
-              We are young open-source developers from China, founded by high school students.
+              We are young open-source developers from China, founded by high school students in 2021-04-25.
               We firmly believe that the future belongs to the youth.
             </p>
             <a href="https://x.com/bugduckteam"
