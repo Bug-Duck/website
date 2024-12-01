@@ -1,26 +1,28 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "bugduck.org",
   "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "build": "hexo generate",
-    "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server"
-  },
-  "hexo": {
-    "version": "7.1.1"
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
-    "hexo": "^7.0.0",
-    "hexo-generator-archive": "^2.0.0",
-    "hexo-generator-category": "^2.0.0",
-    "hexo-generator-index": "^3.0.0",
-    "hexo-generator-tag": "^2.0.0",
-    "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^6.0.0",
-    "hexo-renderer-stylus": "^3.0.0",
-    "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^1.0.0"
+    "@fortawesome/free-brands-svg-icons": "^6.7.1",
+    "font-awesome": "^4.7.0",
+    "marked": "^15.0.3",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.15",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "typescript": "~5.6.2",
+    "vite": "^6.0.1",
+    "vue-tsc": "^2.1.10"
   }
 }
