@@ -18,24 +18,17 @@ const projects = ref([
     linkText: 'View on GitHub'
   },
   {
-    title: 'LLMVision',
-    description: 'AI-powered Mathematical animation generator based on VueMotion.',
+    title: 'BijonAI',
+    description: 'A AI-powered Mathematical animation generator based on VueMotion.',
     tags: ['LLM', 'AI', 'Vue', 'VueMotion'],
-    link: 'https://github.com/Bug-Duck/LLMVision',
+    link: 'https://github.com/BijonAI',
     linkText: 'View on GitHub'
   },
   {
-    title: 'MetroJs',
-    description: 'A JavaScript library for rendering the metro map.',
-    tags: ['JavaScript', 'TypeScript', 'Open Source', 'SVG'],
-    link: 'https://github.com/Bug-Duck/metrojs',
-    linkText: 'View on GitHub'
-  },
-  {
-    title: 'GitPro',
-    description: 'The unoffical GitHub App for Android and iOS.',
-    tags: ['Flutter', 'Open Source', 'Android', 'iOS'],
-    link: 'https://github.com/Bug-Duck/gitpro',
+    title: 'Auf',
+    description: '⚡ A cross-platform and automated environment manager for developers.',
+    tags: ['Open Source', 'Typescript', 'JavaScript'],
+    link: 'https://github.com/auf-dev',
     linkText: 'View on GitHub'
   }
 ])
