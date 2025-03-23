@@ -146,19 +146,6 @@ const members = ref([
         url: 'https://github.com/wgxh-cli'
       }
     ]
-  },
-  {
-    name: 'Hydration',
-    avatar: 'https://avatars.githubusercontent.com/u/29159838?v=4',
-    description: 'Full Stack Developer, Core member of BugDuck',
-    age: '16',
-    language: 'zh-CN | en-US',
-    links: [
-      {
-        icon: 'fa-github',
-        url: 'https://github.com/hydrati'
-      }
-    ]
   }
 ])
 </script>
